@@ -1,7 +1,5 @@
 version: '4.27.2'
 services:
-
-
   # PHP FPM Service
   php:
     image: wodby/php:latest
