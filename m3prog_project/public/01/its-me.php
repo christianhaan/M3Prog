@@ -1,0 +1,1 @@
+<?php echo "studenten nummer: 36780, naam: christian haan, klas: SD1B/SD1DUHU1" ?>
