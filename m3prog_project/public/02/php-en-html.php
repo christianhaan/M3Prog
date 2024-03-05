@@ -1,8 +1,10 @@
 <?php
-    $title = "docker leren"
-    $img
-    $imgtitle
+    $title = "docker leren";
+    $img = images/itsme.png;
+    $imgtitle = "foto";
+    $auther = "christian haan";
 ?>
+
 
 <!DOCTYPE html>
 <html lang="en">
@@ -12,6 +14,11 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <img src="<?php $img ?>" alt="<?php $imgtitle ?>">
+    <section>
+        <p>
+            Auther: <?php $auther ?>
+        </p>
+    </section>
 </body>
 </html>

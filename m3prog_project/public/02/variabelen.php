@@ -2,10 +2,10 @@
 $auto2 = 23;
 $_naam = "christian";
 $auto = 3;
-$auto/onderdelen = "motor"
-$huis&tuin = "schuur";
+//$auto/onderdelen = "motor"
+//$huis&tuin = "schuur";
 $naw = "?";
-$22	= 22;
+//$22	= 22;
 $$auto = "BMW";
 $kleurVanAuto = "zwart";
 $software_dev = "opleiding";
