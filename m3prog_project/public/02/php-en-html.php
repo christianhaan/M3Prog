@@ -1,6 +1,6 @@
 <?php
     $title = "docker leren";
-    $img = images/itsme.png;
+    $afbeelding = "https://commons.wikimedia.org/wiki/File:PHP-logo.svg";
     $imgtitle = "foto";
     $auther = "christian haan";
 ?>
@@ -14,11 +14,8 @@
     <title>Document</title>
 </head>
 <body>
-    <img src="<?php $img ?>" alt="<?php $imgtitle ?>">
-    <section>
-        <p>
-            Auther: <?php $auther ?>
-        </p>
-    </section>
+        <h1><?= $title?></h1>
+        <img src="<?php echo $afbeelding?>" alt="<?php echo $imgtitle?>">
+        <p>Auther: <?= $auther?></p>
 </body>
 </html>
