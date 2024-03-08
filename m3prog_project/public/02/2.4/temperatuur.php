@@ -18,4 +18,3 @@ echo "{$celsius2} graden Celsius = {$kelvin} graden Fahrenheit. <br/>";
 $fahrenheit2 = 50;
 $kelvin1 = ($fahrenheit2 + 459.67) * 5/9;
 echo "{$fahrenheit2} graden Fahrenheit = {$kelvin1} graden Kelvin."
-?>
